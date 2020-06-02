@@ -19,3 +19,9 @@
 
 6. 三元运算符:
     int i = (1==2 ? 100 : 200); -> 200
+
+
+https://leetcode.com/problems/reverse-string/
+https://leetcode.com/problems/longest-common-prefix/
+https://leetcode.com/problems/generate-parentheses/
+https://leetcode.com/problems/count-and-say/
