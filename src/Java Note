@@ -26,6 +26,9 @@
     a.indexOf('b')  -> -1
     a.indexOf('ab')  -> -0
 
+8. substring
+    a = "abc";
+    a.substring(0, 2) -> "ab"
 
 
 https://leetcode.com/problems/reverse-string/

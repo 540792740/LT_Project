@@ -17,6 +17,6 @@ public class LongestCommonPrefix14 {
     }
     public static void main(String[] args){
         String a = "abc";
-        System.out.print(a.indexOf("abcd"));
+        System.out.print(a.substring(0, 2));
     }
 }
