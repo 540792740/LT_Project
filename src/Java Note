@@ -22,9 +22,9 @@
 
 7. indexOf()
     a = "abc";
-    a.indexOf('b')  -> 1
-    a.indexOf('b')  -> -1
-    a.indexOf('ab')  -> -0
+    a.indexOf("b")  -> 1
+    a.indexOf("f")  -> -1
+    a.indexOf("ab")  -> 0
 
 8. substring
     a = "abc";
