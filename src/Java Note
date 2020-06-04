@@ -33,6 +33,7 @@
 9. StringBuilder
     StringBuilder curr = new StringBuilder("1");
     curr.append("a").append("b") -> "1ab"
+    curr.charAt(1) -> second char of curr
 
 
 https://leetcode.com/problems/generate-parentheses/
