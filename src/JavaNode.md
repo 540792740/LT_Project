@@ -1,40 +1,45 @@
-1.  for
+####1.  for
+```
     for (int n : nums){}--> for n in nums
-
-2. ? :
+```
+####2. ? :
+```
     A ？ B：C ，意思就是如果A为真执行B，否则执行C
     int i = nums.length > 0 ? 1 : 0;
-
-3. ++
+```
+####3. ++
+```
     a = ++i --> a = i
     a = i++ --> a + 1 = i
-
-4.  For Loop:
+```
+####4.  For Loop:
+``` 
     for (int i = 0; i < arr.length(); i++) -> arr is string
     for (int i = 0; i < arr.length; i++) -> arr is integer
     for (int i = 0; i < arr.size; i++) -> arr is in collections: list, array_list
-
-5. random
+```
+####5. random
     Math.random()  -> [0, 1)
 
-6. 三元运算符:
+####6. 三元运算符:
     int i = (1==2 ? 100 : 200); -> 200
 
-7. indexOf()
+####7. indexOf()
     a = "abc";
     a.indexOf("b")  -> 1
     a.indexOf("f")  -> -1
     a.indexOf("ab")  -> 0
 
-8. substring
+####8. substring
     a = "abc";
     a.substring(0, 2) -> "ab"
 
-9. StringBuilder
+####9. StringBuilder
     StringBuilder curr = new StringBuilder("1");
     curr.append("a").append("b") -> "1ab"
     curr.charAt(1) -> second char of curr
 
 
 https://leetcode.com/problems/generate-parentheses/
+
 
